@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Puerta
+comment1.params=color\ material\ largoencentimetros\ anchoencentimetros
+comment1.target=Puerta(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=largoencm
+comment10.target=void\ setlargoencm(int)
+comment11.params=
+comment11.target=int\ getanchoencm()
+comment12.params=anchoencm
+comment12.target=void\ setanchoencm(int)
+comment2.params=NombrePersona
+comment2.target=java.lang.String\ TocarPuerta(java.lang.String)
+comment3.params=NombrePersona
+comment3.target=java.lang.String\ PasarPersona(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ CalcularAreaDePuerta()
+comment5.params=
+comment5.target=java.lang.String\ getcolor()
+comment6.params=color
+comment6.target=void\ setcolor(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getmaterial()
+comment8.params=material
+comment8.target=void\ setmaterial(java.lang.String)
+comment9.params=
+comment9.target=int\ getlargoencm()
+numComments=13
